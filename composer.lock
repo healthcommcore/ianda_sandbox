@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "23128781255d6e88d02b87c552a0ebbc",
+    "content-hash": "74e2dd45fde2718669646bdf95c849a9",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2099,17 +2099,17 @@
         },
         {
             "name": "drupal/bootstrap",
-            "version": "3.19.0",
+            "version": "3.20.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/bootstrap.git",
-                "reference": "8.x-3.19"
+                "reference": "8.x-3.20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/bootstrap-8.x-3.19.zip",
-                "reference": "8.x-3.19",
-                "shasum": "6d000a1a470ac831185a46cb003d0c7870ac2a3d"
+                "url": "https://ftp.drupal.org/files/projects/bootstrap-8.x-3.20.zip",
+                "reference": "8.x-3.20",
+                "shasum": "dc8ecfca0b8e8e3598ba611e056f850f2ab497cb"
             },
             "require": {
                 "drupal/core": "~8.0"
@@ -2120,8 +2120,8 @@
                     "dev-3.x": "3.x-dev"
                 },
                 "drupal": {
-                    "version": "8.x-3.19",
-                    "datestamp": "1557526081",
+                    "version": "8.x-3.20",
+                    "datestamp": "1561051685",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -2659,6 +2659,359 @@
             "time": "2019-06-05T19:21:30+00:00"
         },
         {
+            "name": "drupal/ctools",
+            "version": "3.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/ctools.git",
+                "reference": "8.x-3.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/ctools-8.x-3.2.zip",
+                "reference": "8.x-3.2",
+                "shasum": "d6da87239b64ba708a5977e7b33b1e009e36b091"
+            },
+            "require": {
+                "drupal/core": "^8.5"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-3.x": "3.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-3.2",
+                    "datestamp": "1550728386",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Kris Vanderwater (EclipseGc)",
+                    "homepage": "https://www.drupal.org/u/eclipsegc",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Jakob Perry (japerry)",
+                    "homepage": "https://www.drupal.org/u/japerry",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Tim Plunkett (tim.plunkett)",
+                    "homepage": "https://www.drupal.org/u/timplunkett",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "James Gilliland (neclimdul)",
+                    "homepage": "https://www.drupal.org/u/neclimdul",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Daniel Wehner (dawehner)",
+                    "homepage": "https://www.drupal.org/u/dawehner",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "joelpittet",
+                    "homepage": "https://www.drupal.org/user/160302"
+                },
+                {
+                    "name": "merlinofchaos",
+                    "homepage": "https://www.drupal.org/user/26979"
+                },
+                {
+                    "name": "neclimdul",
+                    "homepage": "https://www.drupal.org/user/48673"
+                },
+                {
+                    "name": "sdboyer",
+                    "homepage": "https://www.drupal.org/user/146719"
+                },
+                {
+                    "name": "sun",
+                    "homepage": "https://www.drupal.org/user/54136"
+                },
+                {
+                    "name": "tim.plunkett",
+                    "homepage": "https://www.drupal.org/user/241634"
+                }
+            ],
+            "description": "Provides a number of utility and helper APIs for Drupal developers and site builders.",
+            "homepage": "https://www.drupal.org/project/ctools",
+            "support": {
+                "source": "http://cgit.drupalcode.org/ctools",
+                "issues": "https://www.drupal.org/project/issues/ctools"
+            }
+        },
+        {
+            "name": "drupal/devel",
+            "version": "2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/devel.git",
+                "reference": "8.x-2.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/devel-8.x-2.1.zip",
+                "reference": "8.x-2.1",
+                "shasum": "8f735892922aa5f228e681e645e5f02b1c008f14"
+            },
+            "require": {
+                "drupal/core": "~8.0",
+                "symfony/var-dumper": "~2.7|^3|^4"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-2.x": "2.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-2.1",
+                    "datestamp": "1556799496",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                },
+                "drush": {
+                    "services": {
+                        "drush.services.yml": "^9"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Moshe Weitzman",
+                    "homepage": "https://github.com/weitzman",
+                    "email": "weitzman@tejasa.com",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Hans Salvisberg",
+                    "homepage": "https://www.drupal.org/u/salvis",
+                    "email": "drupal@salvisberg.com",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Luca Lusso",
+                    "homepage": "https://www.drupal.org/u/lussoluca",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "Marco (willzyx)",
+                    "homepage": "https://www.drupal.org/u/willzyx",
+                    "role": "Maintainer"
+                },
+                {
+                    "name": "See contributors",
+                    "homepage": "https://www.drupal.org/node/3236/committers"
+                },
+                {
+                    "name": "salvis",
+                    "homepage": "https://www.drupal.org/user/82964"
+                },
+                {
+                    "name": "willzyx",
+                    "homepage": "https://www.drupal.org/user/1043862"
+                }
+            ],
+            "description": "Various blocks, pages, and functions for developers.",
+            "homepage": "http://drupal.org/project/devel",
+            "support": {
+                "source": "http://cgit.drupalcode.org/devel",
+                "issues": "http://drupal.org/project/devel",
+                "irc": "irc://irc.freenode.org/drupal-contribute"
+            }
+        },
+        {
+            "name": "drupal/pathauto",
+            "version": "1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/pathauto.git",
+                "reference": "8.x-1.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/pathauto-8.x-1.4.zip",
+                "reference": "8.x-1.4",
+                "shasum": "ddfb047ae04ca2ddf475d65f6c09bceb44169e25"
+            },
+            "require": {
+                "drupal/core": "^8.5",
+                "drupal/ctools": "*",
+                "drupal/token": "*"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.4",
+                    "datestamp": "1554239887",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Berdir",
+                    "homepage": "https://www.drupal.org/user/214652"
+                },
+                {
+                    "name": "Dave Reid",
+                    "homepage": "https://www.drupal.org/user/53892"
+                },
+                {
+                    "name": "Freso",
+                    "homepage": "https://www.drupal.org/user/27504"
+                },
+                {
+                    "name": "greggles",
+                    "homepage": "https://www.drupal.org/user/36762"
+                }
+            ],
+            "description": "Provides a mechanism for modules to automatically generate aliases for the content they manage.",
+            "homepage": "https://www.drupal.org/project/pathauto",
+            "support": {
+                "source": "https://git.drupalcode.org/project/pathauto"
+            }
+        },
+        {
+            "name": "drupal/token",
+            "version": "1.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/token.git",
+                "reference": "8.x-1.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/token-8.x-1.5.zip",
+                "reference": "8.x-1.5",
+                "shasum": "6382a7e1aabbd8246f1117a26bf4916d285b401d"
+            },
+            "require": {
+                "drupal/core": "^8.5"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.5",
+                    "datestamp": "1537557481",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Berdir",
+                    "homepage": "https://www.drupal.org/user/214652"
+                },
+                {
+                    "name": "Dave Reid",
+                    "homepage": "https://www.drupal.org/user/53892"
+                },
+                {
+                    "name": "eaton",
+                    "homepage": "https://www.drupal.org/user/16496"
+                },
+                {
+                    "name": "fago",
+                    "homepage": "https://www.drupal.org/user/16747"
+                },
+                {
+                    "name": "greggles",
+                    "homepage": "https://www.drupal.org/user/36762"
+                },
+                {
+                    "name": "mikeryan",
+                    "homepage": "https://www.drupal.org/user/4420"
+                }
+            ],
+            "description": "Provides a user interface for the Token API and some missing core tokens.",
+            "homepage": "https://www.drupal.org/project/token",
+            "support": {
+                "source": "https://git.drupalcode.org/project/token"
+            }
+        },
+        {
+            "name": "drupal/views_taxonomy_term_name_into_id",
+            "version": "1.0.0-alpha1",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/views_taxonomy_term_name_into_id.git",
+                "reference": "8.x-1.0-alpha1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/views_taxonomy_term_name_into_id-8.x-1.0-alpha1.zip",
+                "reference": "8.x-1.0-alpha1",
+                "shasum": "312b4de450e07555e47edff47d68b48413c24908"
+            },
+            "require": {
+                "drupal/core": "*"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.0-alpha1",
+                    "datestamp": "1521909484",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Alpha releases are not covered by Drupal security advisories."
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "dww",
+                    "homepage": "https://www.drupal.org/user/46549"
+                }
+            ],
+            "description": "The module provides the Views plugin for a Contextual filter (argument) validator that converts valid term names into IDs.",
+            "homepage": "https://www.drupal.org/project/views_taxonomy_term_name_into_id",
+            "support": {
+                "source": "https://git.drupalcode.org/project/views_taxonomy_term_name_into_id"
+            }
+        },
+        {
             "name": "drush/drush",
             "version": "9.7.0",
             "source": {
@@ -2871,16 +3224,16 @@
         },
         {
             "name": "egulias/email-validator",
-            "version": "2.1.8",
+            "version": "2.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/egulias/EmailValidator.git",
-                "reference": "c26463ff9241f27907112fbcd0c86fa670cfef98"
+                "reference": "128cc721d771ec2c46ce59698f4ca42b73f71b25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/c26463ff9241f27907112fbcd0c86fa670cfef98",
-                "reference": "c26463ff9241f27907112fbcd0c86fa670cfef98",
+                "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/128cc721d771ec2c46ce59698f4ca42b73f71b25",
+                "reference": "128cc721d771ec2c46ce59698f4ca42b73f71b25",
                 "shasum": ""
             },
             "require": {
@@ -2924,7 +3277,7 @@
                 "validation",
                 "validator"
             ],
-            "time": "2019-05-16T22:02:54+00:00"
+            "time": "2019-06-23T10:14:27+00:00"
         },
         {
             "name": "grasmash/expander",
@@ -5730,16 +6083,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v1.42.1",
+            "version": "v1.42.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "671347603760a88b1e7288aaa9378f33687d7edf"
+                "reference": "21707d6ebd05476854805e4f91b836531941bcd4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/671347603760a88b1e7288aaa9378f33687d7edf",
-                "reference": "671347603760a88b1e7288aaa9378f33687d7edf",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/21707d6ebd05476854805e4f91b836531941bcd4",
+                "reference": "21707d6ebd05476854805e4f91b836531941bcd4",
                 "shasum": ""
             },
             "require": {
@@ -5792,7 +6145,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-06-04T11:31:08+00:00"
+            "time": "2019-06-18T15:35:16+00:00"
         },
         {
             "name": "typo3/phar-stream-wrapper",
@@ -6577,17 +6930,17 @@
         },
         {
             "name": "drupal/coder",
-            "version": "8.3.4",
+            "version": "8.3.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/coder.git",
-                "reference": "0a274321f4930f186d9f246783f0b4d743501cf8"
+                "reference": "35277fc8675b6a2cbb194f8880145a9c85c845c4"
             },
             "require": {
                 "ext-mbstring": "*",
                 "php": ">=5.5.9",
                 "squizlabs/php_codesniffer": "^3.4.1",
-                "symfony/yaml": ">=2.0.0"
+                "symfony/yaml": ">=2.0.5"
             },
             "require-dev": {
                 "phpunit/phpunit": ">=3.7 <6"
@@ -6610,7 +6963,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2019-05-24T11:44:05+00:00"
+            "time": "2019-06-14T15:06:06+00:00"
         },
         {
             "name": "fabpot/goutte",
@@ -8488,17 +8841,6 @@
         {
             "name": "webflo/drupal-core-require-dev",
             "version": "8.7.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/webflo/drupal-core-require-dev.git",
-                "reference": "75d11db587237934914a1cd150e81462665a19aa"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/webflo/drupal-core-require-dev/zipball/75d11db587237934914a1cd150e81462665a19aa",
-                "reference": "75d11db587237934914a1cd150e81462665a19aa",
-                "shasum": ""
-            },
             "require": {
                 "behat/mink": "1.7.x-dev",
                 "behat/mink-goutte-driver": "^1.2",
