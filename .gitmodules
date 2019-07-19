@@ -1,0 +1,3 @@
+[submodule "web/themes/contrib/ianda"]
+	path = web/themes/contrib/ianda
+	url = https://github.com/healthcommcore/ianda_theme.git
