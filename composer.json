@@ -28,6 +28,7 @@
         "drupal/console": "^1.0.2",
         "drupal/core": "^8.7.0",
         "drupal/devel": "^2.1",
+        "drupal/imce": "^1.7",
         "drupal/link_attributes": "^1.9",
         "drupal/linked_field": "^1.1",
         "drupal/pathauto": "~1.4",
