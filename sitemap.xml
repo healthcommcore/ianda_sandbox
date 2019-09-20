@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/about</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/basic-research-software</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/clinical-research</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/operational-reporting-and-analytics</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/research-data-access</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/technical-support</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/informatics-services-core</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/fast-find</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/contact</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/news</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/basic-research-software/</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/clinical-research-and-research-administration-software/</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/operational-reporting-and-analytics/</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/research-data-access/</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/technical-support/</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/informatics-services-core/</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/architecture-and-strategy</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/bioinformatics-and-data-science</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/clinical-informatics-decision-support</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/clinical-informatics-patient-reported-data</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/clinical-operations-business-analytics-coba</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/computational-solutions</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/enterprise-data-warehouse</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/research-informatics-operations-rio</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/news/adobe-licensing-new-process</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/sitemap</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/user/login</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/services/support-instructions</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/data-requests-oncdrs</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/groups/computational-solutions/research-computing-infrastructure-request-form</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/frontline-support</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/1</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/3</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/12</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/code-42-crashplan</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/encryption</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/desktop-laptop-backups</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/molecular-datamart</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/curation-platform</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/virtual-machines</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/jira</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/file-sharing</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/google-data-lab</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/wiki-confluence</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/1?page=1</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/oncotracker</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/inform</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/catissue</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/oncpro</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/oncdrs</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/iris-prms</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/oncore</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/20</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/29</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/4</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/19</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/11</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/8</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/google-accounts</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/data-storage</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/remote-access</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/ucsc-genome-browser</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/qlucore-omics-explorer</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/qiagen-informatics-workbench</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/adobe-acrobat-photoshop-illustrator</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/data-acquisition-exploration</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/reporting-dashboarding</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/1?page=0</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/1?page=2</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/2</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/13</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/14</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/sequencher</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/matlab</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/20?page=1</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/non-partners-pc-mac-support</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/elabjournal-electronic-lab-notebook-eln</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/endnote</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/genepatterns</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/galaxy</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/4?page=1</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/infoed-technology-transfer</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/chemo-order-set-tracking-cost</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/11?page=1</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/8?page=1</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/16</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/analytics-assessment-consultation</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/bioinformatics-services</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/research-data-sharing</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/dna-star-lasergene</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/1?page=3</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/graphpad-prism</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/20?page=0</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/4?page=0</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/17</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/18</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/15</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/11?page=0</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/taxonomy/term/8?page=0</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/infoed-grants-management</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://informatics-analytics.dfci.harvard.edu/redcap</loc>
+  <lastmod>2019-09-20T13:42:29+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+
+
+</urlset>
