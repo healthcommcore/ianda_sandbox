@@ -1,3 +1,6 @@
 [submodule "web/themes/contrib/ianda"]
 	path = web/themes/contrib/ianda
 	url = https://github.com/healthcommcore/ianda_theme.git
+[submodule "web/modules/contrib/drupal_recaptcha_fix"]
+	path = web/modules/contrib/drupal_recaptcha_fix
+	url = https://github.com/healthcommcore/drupal_recaptcha_fix.git
