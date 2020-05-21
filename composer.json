@@ -15,7 +15,7 @@
             "url": "https://packages.drupal.org/8"
         }
     },
-    "require": {
+    "__comment" : {
         "algolia/places": "*",
         "ckeditor/autogrow": "*",
         "ckeditor/codemirror": "*",
@@ -23,6 +23,16 @@
         "ckeditor/image": "*",
         "ckeditor/link": "*",
         "codemirror/codemirror": "*",
+        "jquery/inputmask": "*",
+        "jquery/intl-tel-input": "*",
+        "jquery/rateit": "*",
+        "jquery/select2": "*",
+        "jquery/textcounter": "*",
+        "jquery/timepicker": "*",
+        "progress-tracker/progress-tracker": "*",
+        "signature_pad/signature_pad": "*"
+    },
+    "require": {
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/drupal-scaffold": "^2.5",
@@ -51,15 +61,7 @@
         "drupal/views_taxonomy_term_name_into_id": "~1.0-alpha1",
         "drupal/webform": "^5.9",
         "drush/drush": "^9.0.0",
-        "jquery/inputmask": "*",
-        "jquery/intl-tel-input": "*",
-        "jquery/rateit": "*",
-        "jquery/select2": "*",
-        "jquery/textcounter": "*",
-        "jquery/timepicker": "*",
         "php": ">=5.6",
-        "progress-tracker/progress-tracker": "*",
-        "signature_pad/signature_pad": "*",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
